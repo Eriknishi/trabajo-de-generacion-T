@@ -1,3 +1,11 @@
 div {
     color: blue;
 }
+
+.tabla {
+    color: blueviolet;
+    border: 1px solid black;
+}
+.titulo {
+    border: 1px solid red;
+}
