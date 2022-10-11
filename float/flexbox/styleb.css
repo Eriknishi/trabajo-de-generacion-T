@@ -1,0 +1,6 @@
+.padreFlex {
+    display: flex;
+    padding: 2px;
+    margin: 20px;
+    flex-direction: column;
+}
